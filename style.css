@@ -9,6 +9,13 @@
 body {
     background-color: var(--cor-de-fundo);
     color:var (--branco-principal);
-    fonte-family:
-
+    font-family: vai(--fonte--principal);
+    font-sire: 16px;
+    font-weight: 400;
 }
+
+* {
+    margin:0;
+    padding:0;
+}
+
